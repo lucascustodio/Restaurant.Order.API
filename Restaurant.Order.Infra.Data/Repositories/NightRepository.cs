@@ -11,10 +11,5 @@ namespace Restaurant.Order.Infra.Data.Repositories
         public NightRepository(Context context) : base(context)
         {
         }
-
-        public Task<Night> GetError()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

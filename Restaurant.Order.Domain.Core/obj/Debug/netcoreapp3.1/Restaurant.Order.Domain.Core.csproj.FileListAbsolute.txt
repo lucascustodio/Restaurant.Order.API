@@ -7,3 +7,12 @@ D:\Estudo\gft\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Or
 D:\Estudo\gft\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.dll
 D:\Estudo\gft\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.pdb
 D:\Estudo\gft\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.csprojAssemblyReference.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.deps.json
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.dll
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.pdb
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.csprojAssemblyReference.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.AssemblyInfoInputs.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.AssemblyInfo.cs
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.dll
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain.Core\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.pdb
