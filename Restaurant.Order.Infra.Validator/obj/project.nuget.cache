@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "osWPmaLa/cPMZdEs9L7st3FAa0Jx6yfM0oSQ1c794IiZoeo9VwrELshNqgntx4AsJa0tJV3JS2bgBU0bjocJhg==",
+  "dgSpecHash": "xt0q07ppw2bTb8Edk4vutvhOAeW4rqoU4Wa3HNCp8fgWSjvKoaypwXac1LOlRscNW0jHD3yaBZ76pDeikzilCg==",
   "success": true,
-  "projectFilePath": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj",
+  "projectFilePath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512"
   ],

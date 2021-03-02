@@ -79,11 +79,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
+      "projectUniqueName": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
       "projectName": "Restaurant.Order.Domain.Core",
-      "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
+      "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\obj\\",
+      "outputPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
