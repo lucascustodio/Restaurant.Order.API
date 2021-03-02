@@ -10,3 +10,15 @@ D:\Estudo\gft\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.D
 D:\Estudo\gft\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.csproj.CopyComplete
 D:\Estudo\gft\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.dll
 D:\Estudo\gft\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.pdb
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.deps.json
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.dll
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.pdb
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.dll
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\bin\Debug\netcoreapp3.1\Restaurant.Order.Domain.Core.pdb
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.csprojAssemblyReference.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.AssemblyInfoInputs.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.AssemblyInfo.cs
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.csproj.CoreCompileInputs.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.csproj.CopyComplete
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.dll
+D:\Estudo\restaurantOrder\Restaurant.Order.Domain\obj\Debug\netcoreapp3.1\Restaurant.Order.Domain.pdb

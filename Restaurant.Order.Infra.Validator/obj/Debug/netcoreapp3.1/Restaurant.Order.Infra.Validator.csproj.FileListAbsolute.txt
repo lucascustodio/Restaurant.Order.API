@@ -7,3 +7,12 @@ D:\Estudo\gft\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restauran
 D:\Estudo\gft\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.dll
 D:\Estudo\gft\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.pdb
 D:\Estudo\gft\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.csprojAssemblyReference.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\bin\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.deps.json
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\bin\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.dll
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\bin\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.pdb
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.csprojAssemblyReference.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.AssemblyInfoInputs.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.AssemblyInfo.cs
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.csproj.CoreCompileInputs.cache
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.dll
+D:\Estudo\restaurantOrder\Restaurant.Order.Infra.Validator\obj\Debug\netcoreapp3.1\Restaurant.Order.Infra.Validator.pdb

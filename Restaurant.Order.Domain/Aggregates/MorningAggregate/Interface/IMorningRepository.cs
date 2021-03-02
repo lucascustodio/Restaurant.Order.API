@@ -5,6 +5,5 @@ namespace Restaurant.Order.Domain.Aggregates.MorningAggregate.Interface
 {
     public interface IMorningRepository : IRepository<Morning>
     {
-        Task<Morning> GetError();
     }
 }
