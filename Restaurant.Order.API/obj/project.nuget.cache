@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6hOZ59e7ZCv3Iup3Cx/iMDyUxGJT3BeBrCQ2W5sDiHPhlWwdBvpCAEoNBnj67LReaZMheX0M9BS1+P5dPehK6w==",
+  "dgSpecHash": "B3F8yUZvGiOOmazj1956Fc1AQe5AqoRb0U1eDDxhc5n0fGC7cXgo2UB+yOOCyWctwQfS7Junm2jWohDjNYSP9g==",
   "success": true,
-  "projectFilePath": "D:\\Estudo\\gft\\Restaurant.Order.API\\Restaurant.Order.API.csproj",
+  "projectFilePath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.API\\Restaurant.Order.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\fluentvalidation\\9.5.1\\fluentvalidation.9.5.1.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512",

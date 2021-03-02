@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudo\\gft\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj": {}
+    "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj": {}
   },
   "projects": {
-    "D:\\Estudo\\gft\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj": {
+    "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\gft\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj",
+        "projectUniqueName": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj",
         "projectName": "Restaurant.Order.Application",
-        "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj",
+        "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\gft\\Restaurant.Order.Application\\obj\\",
+        "outputPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
-                "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj"
+              "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
+                "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj"
               },
-              "D:\\Estudo\\gft\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj": {
-                "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj"
+              "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj": {
+                "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj"
               },
-              "D:\\Estudo\\gft\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj": {
-                "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj"
+              "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj": {
+                "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj": {
+    "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
+        "projectUniqueName": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
         "projectName": "Restaurant.Order.Domain.Core",
-        "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
+        "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\obj\\",
+        "outputPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -134,14 +134,14 @@
         }
       }
     },
-    "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
+    "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj",
+        "projectUniqueName": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj",
         "projectName": "Restaurant.Order.Domain",
-        "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj",
+        "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain\\obj\\",
+        "outputPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -159,8 +159,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj": {
-                "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj"
+              "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj": {
+                "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain.Core\\Restaurant.Order.Domain.Core.csproj"
               }
             }
           }
@@ -193,14 +193,14 @@
         }
       }
     },
-    "D:\\Estudo\\gft\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj": {
+    "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj",
+        "projectUniqueName": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj",
         "projectName": "Restaurant.Order.Infra.Data",
-        "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj",
+        "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Data\\Restaurant.Order.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Data\\obj\\",
+        "outputPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -218,8 +218,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
-                "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj"
+              "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
+                "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj"
               }
             }
           }
@@ -268,14 +268,14 @@
         }
       }
     },
-    "D:\\Estudo\\gft\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj": {
+    "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj",
+        "projectUniqueName": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj",
         "projectName": "Restaurant.Order.Infra.Validator",
-        "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj",
+        "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Validator\\Restaurant.Order.Infra.Validator.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\gft\\Restaurant.Order.Infra.Validator\\obj\\",
+        "outputPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Infra.Validator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -329,14 +329,14 @@
         }
       }
     },
-    "D:\\Estudo\\gft\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj": {
+    "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\gft\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj",
+        "projectUniqueName": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj",
         "projectName": "Restaurant.Order.Test",
-        "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj",
+        "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj",
         "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\gft\\Restaurant.Order.Test\\obj\\",
+        "outputPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -354,11 +354,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Estudo\\gft\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj": {
-                "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj"
+              "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj": {
+                "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Application\\Restaurant.Order.Application.csproj"
               },
-              "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
-                "projectPath": "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj"
+              "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj": {
+                "projectPath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "58oQdpa9Gb3Lyxc37iZFMzegoUzYdpq7ni1jogG8KEw0nYqo/OvX4N7y8MVczKBgI8dhlro9ksC+ratBeq5ljA==",
+  "dgSpecHash": "TGEzuR2dM04b/d9v0j9RRvxZXEfFKYQE10SiOx6eGIU33PMlgCEWsZRFnJVF/9+Vqj/QYFqw/+SjkKbH39U3lg==",
   "success": true,
-  "projectFilePath": "D:\\Estudo\\gft\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj",
+  "projectFilePath": "D:\\Estudo\\restaurantOrder\\Restaurant.Order.Test\\Restaurant.Order.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lucas\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Lucas\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
