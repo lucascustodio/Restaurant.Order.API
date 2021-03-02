@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hDEPccDy7n/2qO2VjBWiZviLoMzzG/b3PXAOtK5Uv+U3O7175Diu2AjkOaaguzca02pEgx601rITkdlh4hjM5Q==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo\\gft\\Restaurant.Order.Domain\\Restaurant.Order.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\flunt\\1.0.3\\flunt.1.0.3.nupkg.sha512",
+    "C:\\Users\\Lucas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
